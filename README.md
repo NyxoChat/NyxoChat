@@ -20,7 +20,7 @@ NyxoChat is an advanced AI-powered chat application that provides access to mult
 
 ## Contributing & Feedback
 
-Have a feature request or found a bug? Please visit our [GitHub repository](https://github.com/your-username/nyxochat-feedback) to:
+Have a feature request or found a bug? Please visit our [GitHub repository](https://github.com/NyxoChat/NyxoChat) to:
 - Report issues
 - Request new features
 - Provide feedback
